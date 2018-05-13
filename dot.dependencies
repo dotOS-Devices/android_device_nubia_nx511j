@@ -1,11 +1,11 @@
 [
   {
-    "repository": "android_kernel_nubia_msm8939",
-    "target_path": "kernel/nubia/msm8939"
+    "repository": "android_kernel_nubia_nx511j",
+    "target_path": "kernel/nubia/nx511j"
   },
   {
-    "repository": "proprietary_vendor_nubia_nx512j",
-    "target_path": "vendor/nubia/nx512j"
+    "repository": "proprietary_vendor_nubia_nx511j",
+    "target_path": "vendor/nubia/nx511j"
   },
   {
     "repository": "android_external_sony_boringssl-compat",
